@@ -1,14 +1,14 @@
 {
-  "name": "grab_th_en",
-  "version": "1.0.0",
+  "author": "",
   "description": "",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "license": "ISC",
+  "name": "grab_th_en",
   "scripts": {
     "start": "parcel ./*.html ",
     "build": "parcel build ./*.html  --dist-dir ./build"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.7.0"
-  }
+  "version": "1.0.0"
 }
